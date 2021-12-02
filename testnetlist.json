@@ -1,0 +1,45 @@
+{
+  "name": "Default List",
+  "timestamp": "2021-12-01T09:56:23Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "",
+  "keywords": ["Aldabra", "default"],
+  "tokens": [
+    {
+      "chainId": 97,
+      "address": "0xb656D257C56373d6bD07e23ec3daa5c2Be8f2A63",
+      "name": "Binance USD",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 97,
+      "address": "0x4a7eFAEdb59CaB8e6025Ae383AB4265dD65D400E",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 97,
+      "address": "0xBAAFa03209518b63d488D60F639226ab7F1b859e",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 97,
+      "address": "0xbbbA4130D6025583F1CdD1F0873a91f50D3C64D5",
+      "name": "Stal Stablecoin",
+      "symbol": "STAL",
+      "decimals": 18,
+      "logoURI": ""
+    }
+  ]
+}
